@@ -8,14 +8,9 @@ https://roadmap.sh/frontend
 
 Dans ce cours nous utilisons Angular 
 
-|--------------------|
-|Framework |  Moteur |
-|          |         |
-|VueJs     |         |
-|----------|         |
-|Angular   |Capacitor|
-|----------|---------|
-|React     |         |
-|----------|Cordova  |
-|Sans      |         |
-|----------|---------|
+| Framework    | Moteur    |
+|--------------|-----------|
+| VueJs        | Capacitor |
+| Angular      |           |
+| React        | Cordova   |
+| No Framework |           |
